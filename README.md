@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Android & iOS apps
 - 🌱 I’m currently learning ReactJS (And Native) and NodeJS
+
+___
+
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40ifgiovanni)](https://twitter.com/ifgiovanni)
