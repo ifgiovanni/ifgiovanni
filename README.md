@@ -22,4 +22,4 @@ ___
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40ifgiovanni)](https://twitter.com/ifgiovanni)
 
-[![Giovanni's github stats](https://github-readme-stats.vercel.app/api?username=ifgiovanni&show_icons=true)](https://github.com/ifgiovanni)
+[![Giovanni's github stats](https://github-readme-stats.vercel.app/api?username=ifgiovanni&text_color=333333&title_color=333333&icon_color=333333)](https://github.com/ifgiovanni)
