@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Android & iOS apps
-- 🌱 I’m currently learning ReactJS (And Native) and NodeJS
+- 🌱 I’m currently learning ReactJS, React Native and NodeJS
 
 ___
 
