@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Android & iOS apps
-- 🌱 I’m currently learning ReactJS, React Native and NodeJS
+- 🔭 I’m currently working on React, Angular and PHP
+- 🌱 I’m currently learning about DevOps
 
 ___
 
