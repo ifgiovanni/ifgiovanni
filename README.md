@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on React, Angular and PHP
-- 🌱 I’m currently learning about DevOps
+- 🌱 I’m currently implementing DevOps
 
 ___
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40ifgiovanni)](https://twitter.com/ifgiovanni)
+[![LinkedIn](https://img.shields.io/linkedin/url/https/linkedin.com/cloudposse.svg?style=social&label=Follow%20%Giovanni%20%Orellana)]([https://twitter.com/ifgiovanni](https://www.linkedin.com/in/giovanniorellana/))
 
 [![Giovanni's github stats](https://github-readme-stats.vercel.app/api?username=ifgiovanni&text_color=333333&title_color=333333&icon_color=333333)](https://github.com/ifgiovanni)
