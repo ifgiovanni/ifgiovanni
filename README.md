@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ___
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
+[https://www.linkedin.com/in/giovanniorellana/](LinkedIn)
 
 [![Giovanni's github stats](https://github-readme-stats.vercel.app/api?username=ifgiovanni&text_color=333333&title_color=333333&icon_color=333333)](https://github.com/ifgiovanni)
