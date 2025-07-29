@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ___
 
-[https://www.linkedin.com/in/giovanniorellana/](LinkedIn)
+[linkedin/giovanniorellana]([LinkedIn](https://www.linkedin.com/in/giovanniorellana/))
 
 [![Giovanni's github stats](https://github-readme-stats.vercel.app/api?username=ifgiovanni&text_color=333333&title_color=333333&icon_color=333333)](https://github.com/ifgiovanni)
